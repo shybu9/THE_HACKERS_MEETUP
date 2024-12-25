@@ -44,4 +44,4 @@ chr2_list = list(map(lambda x: chr(x), ord_2))
 
 #### FLAG
 
-![flag](https://github.com/shybu9/THE_HACKERS_MEETUP/blob/main/writeups/december/order_no_2/rd_2_flag.png)<br>
+![flag](https://github.com/shybu9/THE_HACKERS_MEETUP/blob/main/writeups/december/order_no_2/ord_2_flag.png)<br>
