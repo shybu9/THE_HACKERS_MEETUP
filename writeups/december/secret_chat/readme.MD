@@ -37,7 +37,7 @@ chmod +x flag
 
 * `3519` looks to be the correct code which given some output
 
-![chat_leak_chat.png](https://github.com/shybu9/THE_HACKERS_MEETUP/blob/main/writeups/december/secret_chat/chat_leak_chat.png)<br>
+![chat_leak_chat.png](https://github.com/shybu9/THE_HACKERS_MEETUP/blob/main/writeups/december/secret_chat/chat_leak_correct_code.png)<br>
 
 ##### Decoding the output
 
