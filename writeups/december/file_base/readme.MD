@@ -18,7 +18,7 @@ cat flag-base.txt | base64 -d > flag
 
 * The output file is an jpeg image
 
-![flag_image_type_open](https://github.com/shybu9/THE_HACKERS_MEETUP/blob/main/writeups/december/secret_chat/flag_image_type_open.png)<br>
+![flag_image_type_open](https://github.com/shybu9/THE_HACKERS_MEETUP/blob/main/writeups/december/file_base/flag_image_type_open.png)<br>
 
 ##### By analyzing the output image
 
@@ -28,8 +28,8 @@ cat flag-base.txt | base64 -d > flag
 exiftool flag
 ```
 
-![flag_exiftool](https://github.com/shybu9/THE_HACKERS_MEETUP/blob/main/writeups/december/secret_chat/flag_exiftool.png)<br>
+![flag_exiftool](https://github.com/shybu9/THE_HACKERS_MEETUP/blob/main/writeups/december/file_base/flag_exiftool.png)<br>
 
 ##### By using ROT13, It got into an proper flag format
 
-![flag](https://github.com/shybu9/THE_HACKERS_MEETUP/blob/main/writeups/december/secret_chat/flag.png)<br>
+![flag](https://github.com/shybu9/THE_HACKERS_MEETUP/blob/main/writeups/december/file_base/flag.png)<br>
