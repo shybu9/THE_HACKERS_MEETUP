@@ -22,7 +22,7 @@ cat flag-base.txt | base64 -d > flag
 
 ##### By analyzing the output image
 
-* Under image metadata the Author and Comment tags has a similar strig which is in some file format
+* Under image metadata the Author and Comment tags has a similar string which is in some flag format
 
 ```
 exiftool flag
