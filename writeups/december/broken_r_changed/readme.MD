@@ -19,7 +19,7 @@
 hexedit broken-1734844014535.png 
 ```
 
-![improper_hex](https://github.com/shybu9/THE_HACKERS_MEETUP/blob/main/writeups/december/broken_r_changed/improper.png)<br>
+![improper_hex](https://github.com/shybu9/THE_HACKERS_MEETUP/blob/main/writeups/december/broken_r_changed/improper_hex.png)<br>
 
 * Editing the proper hex code `50 4B 03 04` for zip file
 
